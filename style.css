@@ -1,0 +1,38 @@
+.textright{
+    text-align: right;
+}
+
+.textcenter{
+    text-align: center;
+}
+
+.bouton-noir{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+}
+
+h1{
+    font-size: 36px;
+}
+
+.textwhite{
+    color: white;
+}
+
+.bg-hero{
+    background-image: url(asset/bg-image-hero.webp);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.bg-partenaires{
+    background-image: url(asset/bg-image-2.webp);
+    background-size: cover;
+}
+
+.bg-black{
+    background-color: #353434;
+}
